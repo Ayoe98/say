@@ -1,2 +1,2 @@
-echo "import syn" > main.py
+echo "import user" > main.py
 
